@@ -11,6 +11,7 @@
     tools:context="com.example.android.ch6.MainActivity">
 
     <TextView
+        android:id="@+id/texts"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Hello World!" />
