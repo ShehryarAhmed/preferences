@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="first">
+        <item>"hello"</item>
+
+        <item>"hello1"</item>
+    </array>
+    <array name="first1">
+        <item>"hello"</item>
+
+        <item>"hello1"</item>
+    </array>
+
+</resources>

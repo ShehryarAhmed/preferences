@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
 <CheckBoxPreference
     android:defaultValue="true"
     android:key="show_bass"
@@ -8,4 +9,13 @@
     android:title="Show Bass">
 
 </CheckBoxPreference>
+<ListPreference
+    android:defaultValue="color"
+    android:entries="@array/first"
+    android:entryValues="@array/first1"
+    android:key="hell"
+    android:title="Color">
+
+</ListPreference>
+
 </PreferenceScreen>
