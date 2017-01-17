@@ -17,5 +17,9 @@
     android:title="Color">
 
 </ListPreference>
-
+<EditTextPreference
+    android:hint="enter"
+    android:key="some"
+    android:title="editTextView"
+    android:inputType="number"></EditTextPreference>
 </PreferenceScreen>
